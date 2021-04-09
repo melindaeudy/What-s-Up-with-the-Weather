@@ -15,14 +15,13 @@ Use Jupyter notebook, Matplotlib, Pandas
 Used OpenWatherMap Api and Google Maps Platform to create the data for the cities and analyze.
 
 Observable Trends:
-1.	The closer the city is to the equator the warmer the temperature.
+* The closer the city is to the equator the warmer the temperature.
+
 ![image](https://user-images.githubusercontent.com/74002089/114229288-9b2ad200-9945-11eb-8515-df0036f2aa33.png)
  
-
+* Heatmap with pins locating the hotels in the Ideal locations
  
-		 
-PART II heatmap with pins locating the hotels in the Ideal locations
- 
+![image](https://user-images.githubusercontent.com/74002089/114229511-f230a700-9945-11eb-959b-471acd646232.png)
 
 
 
