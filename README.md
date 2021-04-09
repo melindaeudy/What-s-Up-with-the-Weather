@@ -1,7 +1,12 @@
 # What's the Weather Like?
 
 ## Background
-Start with Weather API and a random list of cities to research their relationship of Latitude to temperature, humidity, cloudiness and wind speed.  
+Start with Weather API and a random list of cities to research their relationship of Latitude to temperature, humidity, cloudiness and wind speed.
+
+![image](https://user-images.githubusercontent.com/74002089/114229998-94508f00-9946-11eb-8579-b5ea1cb61d5f.png)
+
+![image](https://user-images.githubusercontent.com/74002089/114230051-a5999b80-9946-11eb-830c-a51a9249ffcc.png)
+
 
 Create scatterplots and run liner regress on the relationships.
 
