@@ -7,14 +7,19 @@ Start with Weather API and a random list of cities to research their relationshi
 
 ![image](https://user-images.githubusercontent.com/74002089/114230051-a5999b80-9946-11eb-830c-a51a9249ffcc.png)
 
+* Use Jupyter notebook, Matplotlib, Pandas
 
-Create scatterplots and run liner regress on the relationships.
+* Create scatterplots and run liner regress on the relationships.
 
-Next, reduce the list of cities to ideal vacation spots based on temperature between 70 and 80 degrees, wind speed less than 10 mph and zero cloudiness.  
+* Next, reduce the list of cities to ideal vacation spots based on temperature between 70 and 80 degrees, wind speed less than 10 mph and zero cloudiness.  
 
-Finally locate a hotel in the city within 5000 meters of the city and plot it on a heatmap.   
+![image](https://user-images.githubusercontent.com/74002089/114230433-20fb4d00-9947-11eb-933b-8c244c3fe58c.png)
 
-Use Jupyter notebook, Matplotlib, Pandas
+
+* Finally locate a hotel in the city within 5000 meters of the city and plot it on a heatmap.   
+
+![image](https://user-images.githubusercontent.com/74002089/114230483-2fe1ff80-9947-11eb-8b1c-bf00ead95a70.png)
+
 
 ## Data Used
 Used OpenWatherMap Api and Google Maps Platform to create the data for the cities and analyze.
