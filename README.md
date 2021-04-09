@@ -7,7 +7,7 @@ Start with Weather API and a random list of cities to research their relationshi
 
 ![image](https://user-images.githubusercontent.com/74002089/114230051-a5999b80-9946-11eb-830c-a51a9249ffcc.png)
 
-* Use Jupyter notebook, Matplotlib, Pandas
+* Use Jupyter notebook, Matplotlib, Pandas, API's and Google Maps.
 
 * Create scatterplots and run liner regress on the relationships.
 
@@ -22,7 +22,7 @@ Start with Weather API and a random list of cities to research their relationshi
 
 
 ## Data Used
-Used OpenWatherMap Api and Google Maps Platform to create the data for the cities and analyze.
+Used OpenWeatherMap Api and Google Maps Platform to create the data for the cities and analyze.
 
 Observable Trends:
 * The closer the city is to the equator the warmer the temperature.
